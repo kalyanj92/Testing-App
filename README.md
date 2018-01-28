@@ -1,5 +1,5 @@
-# Techies-Blog Application
-A Simple React-Redux blogging application built using the libraries React-Form, React Router etc.
+# Testing Application on Input form with Submit button
+A Simple app for Testing React-Redux application using Mocha, Chai, ChaiJS etc.
 
 ## To start using the app please follow the following steps
  There are two ways to get the app Download the Zip file or Clone as described below
